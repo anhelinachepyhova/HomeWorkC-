@@ -13,7 +13,7 @@ namespace Str
 		{
 			int num = 0;
 
-			Console.WriteLine("Hello!");
+			Console.WriteLine("Hello gues!");
 			Console.Write("Please, input string with numbers - ");
 			string str = Console.ReadLine();
 
