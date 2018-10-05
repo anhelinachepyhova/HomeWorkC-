@@ -1,0 +1,7 @@
+C:\Users\Anhelina\source\repos\Str\Str\bin\Debug\Str.exe.config
+C:\Users\Anhelina\source\repos\Str\Str\bin\Debug\Str.exe
+C:\Users\Anhelina\source\repos\Str\Str\bin\Debug\Str.pdb
+C:\Users\Anhelina\source\repos\Str\Str\obj\Debug\Str.csprojAssemblyReference.cache
+C:\Users\Anhelina\source\repos\Str\Str\obj\Debug\Str.csproj.CoreCompileInputs.cache
+C:\Users\Anhelina\source\repos\Str\Str\obj\Debug\Str.exe
+C:\Users\Anhelina\source\repos\Str\Str\obj\Debug\Str.pdb
