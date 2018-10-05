@@ -1,0 +1,7 @@
+E:\Code\Cash1\Cash1\bin\Debug\Cash1.exe.config
+E:\Code\Cash1\Cash1\bin\Debug\Cash1.exe
+E:\Code\Cash1\Cash1\bin\Debug\Cash1.pdb
+E:\Code\Cash1\Cash1\obj\Debug\Cash1.csprojAssemblyReference.cache
+E:\Code\Cash1\Cash1\obj\Debug\Cash1.csproj.CoreCompileInputs.cache
+E:\Code\Cash1\Cash1\obj\Debug\Cash1.exe
+E:\Code\Cash1\Cash1\obj\Debug\Cash1.pdb
