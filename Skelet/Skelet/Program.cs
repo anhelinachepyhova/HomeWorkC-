@@ -10,6 +10,8 @@ namespace Skelet
 	{
 		static void Main(string[] args)
 		{
+			//Проект для тестовіх раб на курсах по .net в a-level
+
 		}
 	}
 }
